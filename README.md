@@ -63,5 +63,5 @@ Users often spend significant time on social media, impacting productivity and w
 ---
 
 ## 6. Screenshots / Demos
-![Dashboard Preview](https://github.com/username/repo/assets/dashboard_preview.png)  
+![Dashboard Preview]([https://github.com/username/repo/assets/dashboard_preview.png](https://github.com/wijdenmediouni1/Social-Media-Analysis-/blob/main/Social%20Media%20Analysis%20.png))  
 
