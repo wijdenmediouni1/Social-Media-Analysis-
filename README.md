@@ -45,16 +45,13 @@ Users often spend significant time on social media, impacting productivity and w
   - Average daily social media usage: 3.5 h  
   - Average productivity score: 72 / 100  
 
-- **Interactive Filter Panel**: Filter by platform (Facebook, Instagram, TikTok, etc.), age group, usage frequency.
-
-- **Top Platforms by Engagement (Bar Chart)**: Shows the most used platforms.  
-
-- **Productivity Impact (Line Chart)**: Correlation between usage hours and productivity levels.  
-
-- **Life Level Distribution (Donut Chart)**: Segmentation of users by “Life Level”.  
-
-- **Personalized Recommendations (Table / Card)**: Suggestions to improve productivity based on detected usage patterns.
-
+- **Interactive Filter Panel**: Filter by platform (Facebook, Instagram, TikTok, YouTube), Location, OS, and Connection Type.
+-**ConnectionType per Platform (Horizontal Bar Chart)**: Shows connection type distribution across social media platforms.
+-**Number of Sessions per Video Category(Donut Chart)**: Breakdown of video content consumption by category.
+-**Location (World Map)**: Geographic distribution of social media users globally.
+-**Income per Profession (Horizontal Bar Chart)**: Social media usage patterns across different professional categories.
+-**Addiction Level per Platform (Donut Chart)**: Platform-specific addiction level distribution among users.
+-**Total Time Spent per Age (Vertical Bar Chart)**: Time spent on social media segmented by age groups.
 ### 🔹 Business Impact & Insights
 - **Time Optimization**: Users can manage their social media usage more effectively.  
 - **Behavioral Research**: Analysts gain a detailed view of digital consumption trends.  
