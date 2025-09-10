@@ -58,7 +58,7 @@ Users often spend significant time on social media, impacting productivity and w
 - **Marketing Insights**: Identify the most engaging platforms for different age groups.
 
 ---
+## 6. Demos
+![Dashboard Preview](https://github.com/wijdenmediouni1/Social-Media-Analysis-/blob/main/Social%20Media%20Analysis%20.png?raw=true)
 
-## 6. Screenshots / Demos
-![Dashboard Preview]([https://github.com/username/repo/assets/dashboard_preview.png](https://github.com/wijdenmediouni1/Social-Media-Analysis-/blob/main/Social%20Media%20Analysis%20.png))  
 
